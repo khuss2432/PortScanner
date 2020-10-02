@@ -29,7 +29,7 @@ With this port scanner, I just attempt to connect<sup>This is a form of "reconna
 
 - **Open another terminal** and **type `python src/scanner.py`**: Enter `localhost` or `127.0.0.1`. It will scan all the ports and print the open ports.
 
-> Note: You can enter remote host if you want to scan the ports for any remote host. Check the [DISCLAIMER.md](./DISCLAIMER.md) before doing this.
+> Note: You can enter remote host if you want to scan the ports for any remote host.  Check the [DISCLAIMER.md](./DISCLAIMER.md) before doing this.
 
 ### To run Port Scanner: (Via UI)
 
